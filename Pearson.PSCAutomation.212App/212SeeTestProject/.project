@@ -1,0 +1,15 @@
+#Tue Feb 09 13:16:18 EST 2016
+mobile=true
+platform=GENERIC
+default.ios.user=root
+>>>>>>>=212CAAdaptionPhase1
+lastZone=default
+default.ios.password=alpine
+<<<<<<<=HEAD
+translator=C\# MSTest
+version=2
+app.name=ios_app\:iPad11
+last.test=
+description=
+text_substitutions=
+=\=\=\=\=\=\=

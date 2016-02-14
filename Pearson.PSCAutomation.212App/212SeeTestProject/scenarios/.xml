@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><commands>
+<command enable="true" name="SetDevice(Device)">
+<parameters>
+<parameter defaultValue="ios_app:Lab1" description="Device name" name="Device" pattern="(.+)" type="application"/>
+</parameters>
+</command>
+<command enable="true" name="IsElementFound(Zone, Element, Index)">
+<parameters>
+<parameter defaultValue="default" description="Select Zone" name="Zone" pattern="" type="zone"/>
+<parameter defaultValue="AppIcon" description="Element to find" name="Element" pattern="" type="element"/>
+<parameter defaultValue="0" description="Element index" name="Index" pattern="" type="integer"/>
+</parameters>
+</command>
+</commands>

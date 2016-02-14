@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="k1nestedrun" storage="c:\users\305534\documents\seetestautomation\pearson.pscautomation.k1app\k1nestedrun.orderedtest" id="fbe82e7b-35ce-4ea9-8a40-b2456969f494" continueAfterFailure="true" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="24d13c2a-9641-4e74-a3ee-1a21c69082dd" name="k1criticalpasstest1" storage="k1criticalpasstest1.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="28a38c6b-3180-4f2e-a726-54ed31bd38a0" name="k1criticalpasstest2" storage="k1criticalpasstest2.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="6d8e89a5-3013-484b-9922-52ca5e703265" name="k1criticalfailtest3" storage="k1criticalfailtest3.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

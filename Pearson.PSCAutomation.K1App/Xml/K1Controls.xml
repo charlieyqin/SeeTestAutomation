@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Controls>
+  <OS OSName="iOS">
+    <View ViewName="LoginView">
+      <Control ControlName="UserName">
+        <Zone>Native</Zone>
+        <Element>accessibilityIdentifier=LoginScreen.UserNameTextField</Element>
+        <Index>0</Index>
+        <ControlType>TextBox</ControlType>
+        <ControlText>User Name</ControlText>
+      </Control>
+      <Control ControlName="Password">
+        <Zone>Native</Zone>
+        <Element>placeholder=Password</Element>
+        <Index>1</Index>
+        <ControlType>TextBox</ControlType>
+        <ControlText>Password</ControlText>
+      </Control>
+      <Control ControlName="Login">
+        <Zone>Native</Zone>
+        <Element>accessibilityLabel=LOG IN</Element>
+        <Index>2</Index>
+        <ControlType>Button</ControlType>
+        <ControlText>Login</ControlText>
+      </Control>
+    </View>
+  </OS>
+    <OS OSName="Android">
+    <View ViewName="LoginView">
+      <Control ControlName="UserName">
+        <Zone>Native</Zone>
+        <Element>accessibilityIdentifier=LoginScreen.UserNameTextField</Element>
+        <Index>0</Index>
+        <ControlType>TextBox</ControlType>
+        <ControlText>User Name</ControlText>
+      </Control>
+      <Control ControlName="Password">
+        <Zone>Native</Zone>
+        <Element>placeholder=Password</Element>
+        <Index>1</Index>
+        <ControlType>TextBox</ControlType>
+        <ControlText>Password</ControlText>
+      </Control>
+      <Control ControlName="Login">
+        <Zone>Native</Zone>
+        <Element>accessibilityLabel=LOG IN</Element>
+        <Index>2</Index>
+        <ControlType>Button</ControlType>
+        <ControlText>Login</ControlText>
+      </Control>
+    </View>
+  </OS>
+</Controls>

@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Logins>
+    <OS OSName="iOS">
+        <Login LoginName="TeacherAdbul">
+          <UserName>TEsec15grdkg</UserName>
+          <Password>psocsq3</Password>
+          <PersonName>TEsec15grdKGFN TEsec15grdKG</PersonName>
+          <UserType>Teacher</UserType>
+          <SectionedGrades>8,9,10</SectionedGrades>
+          <NavigationInfo>
+             <SubjectInfo SubjectName="ELA">
+               <TaskInfo TaskName="Notebook">
+                 <Grade>9</Grade>
+                 <Unit>1</Unit>
+                 <Lesson>1</Lesson>
+                 <TaskNumber>5</TaskNumber>
+                 <Title>Episode1</Title>
+                 <AdditionalInfo>1</AdditionalInfo>
+               </TaskInfo>
+             </SubjectInfo>
+          </NavigationInfo>
+        </Login>
+        <Login LoginName="TeacherKatherin">
+          <UserName>jgrimm2</UserName>
+          <Password>sch00lnet</Password>
+          <PersonName>Katherin Gallas</PersonName>
+          <UserType>Teacher</UserType>
+          <SectionedGrades>7,8,9,10</SectionedGrades>
+        </Login>
+      <Login LoginName="TeacherJoshalyn">
+        <UserName>sberry8</UserName>
+        <Password>sch00lnet</Password>
+        <PersonName>Ms. Joshalyn Peirre-Louis</PersonName>
+        <UserType>Teacher</UserType>
+        <SectionedGrades>7,8,9,10</SectionedGrades>
+      </Login>
+      <Login LoginName="TeacherLIZZIE">
+        <UserName>111111</UserName>
+        <Password>sch00lnet</Password>
+        <PersonName>LIZZIE A Andreani</PersonName>
+        <UserType>Teacher</UserType>
+        <SectionedGrades>7,8,9,10</SectionedGrades>
+      </Login>
+      <Login LoginName="TeacherJennifer">
+        <UserName>jbakle1</UserName>
+        <Password>sch00lnet</Password>
+        <PersonName>Jennifer Kemble</PersonName>
+        <UserType>Teacher</UserType>
+        <SectionedGrades>7,8,9,10</SectionedGrades>
+      </Login>
+      <Login LoginName="TeacherELA">
+        <UserName>TEsec15grdkg</UserName>
+        <Password>psocsq3</Password>
+        <PersonName>TEsec15grdFN TEsec15grdLN</PersonName>
+        <UserType>Teacher</UserType>
+        <SectionedGrades>7,8,9,10</SectionedGrades>
+      </Login>
+      <Login LoginName="TeacherMATH">
+        <UserName>TMsec15grdkg</UserName>
+        <Password>psocsq3</Password>
+        <PersonName>TMsec15grdFN TMsec15grdLN</PersonName>
+        <UserType>Teacher</UserType>
+        <SectionedGrades>7,8,9,10</SectionedGrades>
+      </Login>
+      <Login LoginName="StudentSophia">
+        <UserName>s01sec15grdkg</UserName>
+        <Password>psocsq3</Password>
+        <PersonName>S01sec15grdKGFN S01sec15grdKG</PersonName>
+        <UserType>Student</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+      </Login>
+      <Login LoginName="StudentKevin">
+         <UserName>s01sec15grdkg</UserName>
+         <Password>psocsq3</Password>
+         <PersonName>S01sec15grdKGFN S01sec15grdKG</PersonName>
+         <UserType>Student</UserType>
+         <SectionedGrades>7,8,9</SectionedGrades>
+      </Login>
+      <Login LoginName="StudentAzyiah">
+        <UserName>1229471</UserName>
+        <Password>sch00lnet</Password>
+        <PersonName>Azyiah ALBRECHT BRYAN</PersonName>
+        <UserType>Student</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+      </Login>
+      <Login LoginName="StudentStephen">
+        <UserName>111111</UserName>
+        <Password>sch00lnet</Password>
+        <PersonName>Stephen Jr BEAROR</PersonName>
+        <UserType>Student</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+      </Login>
+      <Login LoginName="StudentSec01">
+        <UserName>s01sec15grdkg</UserName>
+        <Password>psocsq3</Password>
+        <PersonName>S01sec15grdKGFN S01sec15grdKG</PersonName>
+        <UserType>Student</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+        <NavigationInfo>
+          <SubjectInfo SubjectName="ELA">
+            <TaskInfo TaskName="Notebook">
+              <Grade>9</Grade>
+              <Unit>1</Unit>
+              <Lesson>1</Lesson>
+              <TaskNumber>5</TaskNumber>
+              <Title>Episode1</Title>
+              <AdditionalInfo>1</AdditionalInfo>
+            </TaskInfo>
+          </SubjectInfo>
+        </NavigationInfo>
+      </Login>
+      <Login LoginName="StudentSec02">
+        <UserName>s02sec15grdkg</UserName>
+        <Password>psocsq3</Password>
+        <PersonName>s02sec15grdFN s02sec15grdLN</PersonName>
+        <UserType>Student</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+        <NavigationInfo>
+          <SubjectInfo SubjectName="ELA">
+            <TaskInfo TaskName="Notebook">
+              <Grade>9</Grade>
+              <Unit>1</Unit>
+              <Lesson>1</Lesson>
+              <TaskNumber>5</TaskNumber>
+              <Title>Episode1</Title>
+              <AdditionalInfo>1</AdditionalInfo>
+            </TaskInfo>
+          </SubjectInfo>
+        </NavigationInfo>
+      </Login>
+      <Login LoginName="StudentSec05">
+        <UserName>s05sec15grdkg</UserName>
+        <Password>psocsq3</Password>
+        <PersonName>s05sec15grdFN s05sec15grdLN</PersonName>
+        <UserType>Student</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+        <NavigationInfo>
+          <SubjectInfo SubjectName="ELA">
+            <TaskInfo TaskName="Notebook">
+              <Grade>9</Grade>
+              <Unit>1</Unit>
+              <Lesson>1</Lesson>
+              <TaskNumber>5</TaskNumber>
+              <Title>Episode1</Title>
+              <AdditionalInfo>1</AdditionalInfo>
+            </TaskInfo>
+          </SubjectInfo>
+        </NavigationInfo>
+      </Login>
+      <Login LoginName="IncorrectCredential">
+        <UserName>IncorrectUserName</UserName>
+        <Password>IncorrectPassword</Password>
+        <PersonName>No Name</PersonName>
+        <UserType>Student</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+      </Login>
+      <Login LoginName="EmptyCredential">
+        <UserName> </UserName>
+        <Password> </Password>
+        <PersonName>No Name</PersonName>
+        <UserType>Student</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+      </Login>
+      <Login LoginName="EmptyUsername">
+        <UserName> </UserName>
+        <Password>sch00lnet</Password>
+        <PersonName>No Name</PersonName>
+        <UserType>Student</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+      </Login>
+      <Login LoginName="EmptyPassword">
+        <UserName>1144974</UserName>
+        <Password> </Password>
+        <PersonName>No Name</PersonName>
+        <UserType>Student</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+      </Login>
+      <Login LoginName="InvalidUsernameCorrectPassword">
+        <UserName>InvalidUsername</UserName>
+        <Password>sch00lnet </Password>
+        <PersonName>No Name</PersonName>
+        <UserType>Student</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+      </Login>
+      <Login LoginName="ValidUsernameInvalidPassword">
+        <UserName>1144974</UserName>
+        <Password>INVALID </Password>
+        <PersonName>No Name</PersonName>
+        <UserType>Student</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+      </Login>
+      <Login LoginName="BackUpAndRestoreCredentials">
+        <UserName>bmounts1</UserName>
+        <Password>sch00lnet</Password>
+        <PersonName>BARBARA Azfar</PersonName>
+        <UserType>Student</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+      </Login>
+     <Login LoginName="StudentUmontee">
+        <UserName>1209439</UserName>
+        <Password>sch00lnet</Password>
+        <PersonName>Umontee Glaadis</PersonName>
+        <UserType>Student</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+      </Login>
+      <Login LoginName="AssessmentTeacher">
+        <UserName>TEMSec28grd01</UserName>
+        <Password>psocsq3</Password>
+        <PersonName>Agriesti Laceya</PersonName>
+        <UserType>Teacher</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+        <NavigationInfo>
+          <SubjectInfo SubjectName="ELA">
+            <TaskInfo TaskName="Assessment">
+              <Grade>1</Grade>
+              <Unit>G-I</Unit>
+              <Lesson>1</Lesson>
+              <TaskNumber>0</TaskNumber>
+              <Title>Episode1</Title>
+              <AdditionalInfo>CourseELA0101 - Sec2801ELA,Unit G-I Lesson 1 Cold Write 1,G-I: Pending,G-I: In Progress,G-I: Scoring Required,G-I: Delivered,0/5,5/5,4/5,1/5,S01sec28grd01FN S01sec28grd01,Unit G-N: Genre Study: Narrative,Unit G-I: Genre Study: Informational</AdditionalInfo>
+            </TaskInfo>
+            <TaskInfo TaskName="CheckListAssessment">
+              <Grade>1</Grade>
+              <Unit>G-I</Unit>
+              <Lesson>1</Lesson>
+              <TaskNumber>0</TaskNumber>
+              <Title>Episode1</Title>
+              <AdditionalInfo>CourseELA0101 - Sec2801ELA,Sample Checklist 1,G-I: Pending,G-I: In Progress,G-I: Scoring Required,G-I: Delivered,0/5,5/5,4/5,1/5,S01sec28grd01FN S01sec28grd01,Unit G-N: Genre Study: Narrative,Unit G-I: Genre Study: Informational,5</AdditionalInfo>
+            </TaskInfo>
+          </SubjectInfo>
+        </NavigationInfo>
+      </Login>
+      <Login LoginName="AssessmentStudent">
+        <UserName>S01sec28grd01</UserName>
+        <Password>psocsq3</Password>
+        <PersonName>Agriesti Laceya</PersonName>
+        <UserType>Student</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+        <NavigationInfo>
+          <SubjectInfo SubjectName="ELA">
+            <TaskInfo TaskName="Assessment">
+              <Grade>1</Grade>
+              <Unit>G-I</Unit>
+              <Lesson>1</Lesson>
+              <TaskNumber>0</TaskNumber>
+              <Title>Episode1</Title>
+              <AdditionalInfo>CourseELA0101 - Sec0801ELA,Unit G-I Lesson 1 Cold Write 1,G-I: Pending,G-I: In Progress,G-I: Scoring Required,G-I: Delivered,0/5,5/5,4/5,1/5,S01sec08grd01FN S01sec08grd01,Unit G-N: Genre Study: Narrative,Unit G-I: Genre Study: Informational</AdditionalInfo>
+            </TaskInfo>            
+          </SubjectInfo>
+        </NavigationInfo>
+      </Login>
+    </OS>
+    <OS OSName="Android">
+      <Login LoginName="TeacherAdbul">
+        <UserName>apatton1</UserName>
+        <Password>sch00lnet</Password>
+        <UserType>Teacher</UserType>
+        <SectionedGrades>8,9,10</SectionedGrades>
+      </Login>
+      <Login LoginName="Teacher2">
+        <UserName>ajgrimm2</UserName>
+        <Password>sch00lnet</Password>
+        <UserType>Teacher</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+      </Login>
+      <Login LoginName="StudentSophia">
+        <UserName>1027005</UserName>
+        <Password>sch00lnet</Password>
+        <UserType>Student</UserType>
+        <SectionedGrades>7,8,9</SectionedGrades>
+      </Login>
+    </OS>
+</Logins>

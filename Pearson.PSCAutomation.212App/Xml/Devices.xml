@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Devices>  
+  <OS OSName="iOS">
+    <Device DeviceName="1" IsDeviceOnline="true">
+      <Host>localhost</Host>
+      <SeeTestDeviceName>ios_app:News WW iPad 3</SeeTestDeviceName>
+      <Version>8.3</Version>
+      <ConnectedOver>USB</ConnectedOver>
+      <Port>8889</Port>
+    </Device>
+    <Device DeviceName="3" IsDeviceOnline="false">
+      <Host>localhost</Host>
+      <SeeTestDeviceName>ios_app:Lab11_Wifi</SeeTestDeviceName>
+      <Version>7.7.2</Version>
+      <ConnectedOver>Wifi</ConnectedOver>
+      <Port>8890</Port>
+    </Device>
+    <Device DeviceName="2" IsDeviceOnline="true">
+      <Host>localhost</Host>
+      <SeeTestDeviceName>ios_app:Lab13-Ipad</SeeTestDeviceName>
+      <Version>7.7.2</Version>
+      <ConnectedOver>USB</ConnectedOver>
+      <Port>8891</Port>
+    </Device>
+  </OS>
+  <OS OSName="Android">
+    <Device DeviceName="1" IsDeviceOnline="true">
+      <Host>localhost</Host>
+      <SeeTestDeviceName>ios_app:Lab11-ipadmini</SeeTestDeviceName>
+      <Version>7.7.2</Version>
+      <ConnectedOver>USB</ConnectedOver>
+      <Port>8889</Port>
+    </Device>
+    <Device DeviceName="2" IsDeviceOnline="true">
+      <Host>localhost</Host>
+      <SeeTestDeviceName>ios_app:Lab13-ipadmini</SeeTestDeviceName>
+      <Version>7.7.2</Version>
+      <ConnectedOver>USB</ConnectedOver>
+      <Port>8890</Port>
+    </Device>
+  </OS>
+</Devices>

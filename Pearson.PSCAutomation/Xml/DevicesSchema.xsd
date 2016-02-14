@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DevicesSchema"
+    targetNamespace="http://tempuri.org/DevicesSchema.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/DevicesSchema.xsd"
+    xmlns:mstns="http://tempuri.org/DevicesSchema.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="Devices">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="OS">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="Device">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Host" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                    <xs:element name="SeeTestDeviceName" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                    <xs:element name="Version" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                    <xs:element name="ConnectedOver" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                    <xs:element name="Port" type="xs:unsignedShort" minOccurs="1" maxOccurs="1"/>
+                  </xs:sequence>
+                  <xs:attribute name="DeviceName" type="xs:unsignedByte" use="required" />
+                  <xs:attribute name="IsDeviceConnected" type="xs:boolean" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="OSName" type="xs:string" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

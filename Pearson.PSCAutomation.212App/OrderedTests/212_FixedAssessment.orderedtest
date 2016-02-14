@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="212_FixedAssessment" storage="c:\users\255464\documents\seetestautomation\pearson.pscautomation.212app\orderedtests\212_fixedassessment.orderedtest" id="46d596ff-f1c7-4151-a3bc-e115d2ff4dc5" continueAfterFailure="true" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="fa82727e-cded-4993-b6ed-c97580580caf" name="212_fixedassessment_teacher" storage="212_fixedassessment_teacher.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="a456228b-9e9a-4166-87a8-0ad730bab00c" name="212_fixedassessment_teacherstudent" storage="212_fixedassessment_teacherstudent.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="bbfdfad6-6167-4ef0-984d-40cc2a974d99" name="212_fixedassessment_scoring" storage="212_fixedassessment_scoring.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

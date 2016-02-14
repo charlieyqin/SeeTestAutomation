@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ControlsSchema"    
+    elementFormDefault="qualified"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>  
+  <xs:element name="Controls">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="OS">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="View">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="Control">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="Zone" type="xs:string" minOccurs="1" maxOccurs="1" />
+                          <xs:element name="Element" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                          <xs:element name="Index" type="xs:int" minOccurs="1" maxOccurs="1"/>
+                          <xs:element name="ControlType" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                          <xs:element name="ControlText" type="xs:string" minOccurs="1" maxOccurs="1"/>
+                          <xs:element name="XCoordinate" type="xs:int" minOccurs="0" maxOccurs="1"/>
+                          <xs:element name="YCoordinate" type="xs:int" minOccurs="0" maxOccurs="1"/>
+                        </xs:sequence>
+                        <xs:attribute name="ControlName" type="xs:string" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="ViewName" type="xs:string" use="required"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="OSName" use="required">
+              <xs:simpleType>
+                <xs:restriction base="xs:string">
+                  <xs:pattern value="iOS|Android"/>
+                  <xs:enumeration value="iOS"/>
+                  <xs:enumeration value="Android"/>
+                </xs:restriction>
+              </xs:simpleType>
+            </xs:attribute>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="212_assessment" storage="c:\users\255464\documents\seetestautomation\pearson.pscautomation.212app\orderedtests\212_assessment.orderedtest" id="08f74b84-5d0e-46f0-b7d3-24062b0d7ad1" continueAfterFailure="true" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="f2cb26c8-66f8-43c7-9f8f-e293e8657803" name="212_Assessment_Teacher" storage="212_assessment_teacher.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="13920b13-75e9-4b88-8719-1aeefdc9a9c8" name="212_Assessment_TeacherStudent" storage="212_assessment_teacherstudent.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

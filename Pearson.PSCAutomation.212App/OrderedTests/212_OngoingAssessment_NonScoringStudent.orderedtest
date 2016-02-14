@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="212_OngoingAssessment_NonScoringStudent" storage="c:\users\255464\documents\seetestautomation\pearson.pscautomation.212app\orderedtests\212_ongoingassessment_nonscoringstudent.orderedtest" id="58832c2c-43e7-4529-b5eb-0281e7a7b137" continueAfterFailure="true" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="030e5d2d-690e-76e8-7cb4-c0e5d36b9b9b" name="VerifyStudentExperienceOnMachineScoredQuestion" storage="..\bin\debug\pearson.pscautomation.212app.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="22292328-59cd-7909-8799-4bbcdb36e1be" name="VerifyStudentExperienceOnMachineScoredQuestionForCorrectResponse" storage="..\bin\debug\pearson.pscautomation.212app.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="b34ddf89-772a-a77c-32be-56c7fd01452d" name="VerifyStudentExperienceOnHumanScoredQuestion" storage="..\bin\debug\pearson.pscautomation.212app.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="202feb9f-0bc3-7d10-41b9-ab9a65ec3149" name="VerifyStudentExperienceOnHumanScoredQuestionForCorrectResponse" storage="..\bin\debug\pearson.pscautomation.212app.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

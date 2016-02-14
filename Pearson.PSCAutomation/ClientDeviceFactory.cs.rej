@@ -1,0 +1,9 @@
+diff a/Pearson.PSCAutomation/ClientDeviceFactory.cs b/Pearson.PSCAutomation/ClientDeviceFactory.cs	(rejected hunks)
+@@ -14,7 +14,6 @@
+ {
+     public class ClientDeviceFactory
+     {
+-        private static List<ClientDevice> clientDevices=null;
+         private static List<ClientDevice> clientDevices = new List<ClientDevice>();
+         private static ClientDevice clientDeviceInstance;
+         private static object objLock = new object();

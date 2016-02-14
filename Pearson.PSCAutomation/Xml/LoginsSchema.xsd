@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Logins">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="OS">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="Login">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="UserName" type="xs:string"  minOccurs="1" maxOccurs="1"/>
+                    <xs:element name="Password" type="xs:string"  minOccurs="1" maxOccurs="1"/>
+                    <xs:element name="UserType" type="xs:string"  minOccurs="1" maxOccurs="1"/>
+                    <xs:element name="SectionedGrades" type="xs:string"  minOccurs="0" maxOccurs="1"/>
+                  </xs:sequence>
+                  <xs:attribute name="LoginName" type="xs:string" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="OSName" type="xs:string" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

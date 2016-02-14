@@ -1,0 +1,1340 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Login>
+  <OS OSName="iOS">
+    <Login LoginName="GustadMody9">
+      <UserName>psoc2172</UserName>
+      <Password>psocmvua7</Password>
+      <PersonName>psoc172 PsocMV</PersonName>
+      <UserType>Teacher</UserType>
+      <SectionedGrades>0</SectionedGrades>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="CommonRead">
+            <Grade>4</Grade>
+            <Unit>2</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>WordsToAnnotate:sales,companies,questionnaires,popular,different</AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>4</Grade>
+            <Unit>2</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>5</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>4</Grade>
+            <Unit>2</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+        <SubjectInfo SubjectName="Math">
+          <TaskInfo TaskName="ChallengeProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>7</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>5</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>5</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+    </Login>
+    <Login LoginName="AssessmentTeacher">
+      <UserName>abronder1</UserName>
+      <Password>sch00lnet</Password>
+      <PersonName>Agriesti Laceya</PersonName>
+      <UserType>Teacher</UserType>
+      <SectionedGrades>9</SectionedGrades>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="Assessment">
+            <Grade>9</Grade>
+            <Unit>10</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>0</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>10: In Progress,10: In Progress,10: Scoring Required,10: Delivered,AMERICAN LIT &amp; COMP 11 - Sec-01 Per-5,27/28,28/28,0/28,Scored,28,Scores Released,1/28,Aldahir Andreani,Dominique Bigony,Trevor Bifsha,Makayla CREMEANS JR,Not Scored</AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="NotebookAssessment">
+            <Grade>9</Grade>
+            <Unit>A</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>0</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>A: Pending,A: In Progress,A: Scoring Required,A: Delivered,AMERICAN LIT &amp; COMP 11 - Sec-01 Per-5,27/28,28/28,0/28,Scored,28,Scores Released,1/28</AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="ProjectAssessment">
+            <Grade>9</Grade>
+            <Unit>A</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>0</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>A: In Progress,A: In Progress,A: Scoring Required,A: Delivered,AMERICAN LIT &amp; COMP 11 - Sec-01 Per-5,27/28,28/28,0/28,Scored,28,Scores Released,1/28</AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="ChecklistAssessment">
+            <Grade>9</Grade>
+            <Unit>A</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>0</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>A: In Progress,A: In Progress,A: Scoring Required,A: Delivered,AMERICAN LIT &amp; COMP 11 - Sec-01 Per-5,27/28,28/28,0/28,Scored,28,Scores Released,1/28</AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="DiscussionRubricAssessment">
+            <Grade>9</Grade>
+            <Unit>C</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>0</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>C: In Progress,C: In Progress,C: Scoring Required,C: Delivered,AMERICAN LIT &amp; COMP 11 - Sec-01 Per-5,27/28,28/28,0/28,Scored,28,Scores Released,1/28</AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+    </Login>
+    <Login LoginName="AdeleAlamedaTeacher">
+      <UserName>alevenstein1</UserName>
+      <Password>sch00lnet</Password>
+      <PersonName>ADELE Alameda</PersonName>
+      <UserType>Teacher</UserType>
+      <SectionedGrades>9</SectionedGrades>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="MATH">
+          <TaskInfo TaskName="Assessment">
+            <Grade>9</Grade>
+            <Unit>11</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>0</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>11: In Progress,11: In Progress,ALGEBRA 1 - Sec-01 Per-3,Alontae Alkamhawi,7</AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="Assessment">
+            <Grade>9</Grade>
+            <Unit>7</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>0</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>7: Pending,7: In Progress,7: Scoring Required,7: Delivered,INTEGRATED ALGEBRA &amp; DATA ANALYSIS - Sec-01 Per-8</AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+    </Login>
+    <Login LoginName="AssessmentStudent">
+      <UserName>617944</UserName>
+      <Password>sch00lnet</Password>
+      <PersonName>Andreani, Aldahir</PersonName>
+      <UserType>Student</UserType>
+      <SectionedGrades>9</SectionedGrades>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="Assessment">
+            <Grade>9</Grade>
+            <Unit>10</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>0</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>10,Sample Math Unit (for QA),2</AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+    </Login>
+    <Login LoginName="AssessmentStudentExercise">
+      <UserName>1230494</UserName>
+      <Password>sch00lnet</Password>
+      <PersonName>Alkamhawi, Alontae</PersonName>
+      <UserType>Student</UserType>
+      <SectionedGrades>9</SectionedGrades>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="MATH">
+          <TaskInfo TaskName="Assessment">
+            <Grade>9</Grade>
+            <Unit>11</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>0</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>1,2,A,B,C,5,6,3</AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+    </Login>
+    <Login LoginName="GustadMody">
+      <UserName>psoc2164</UserName>
+      <Password>psocmvua7</Password>
+      <PersonName>psoc164 PsocMV</PersonName>
+      <UserType>Teacher</UserType>
+      <SectionedGrades>0</SectionedGrades>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="NotDownloadedLesson">
+            <Grade>4</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode 1: Symbols and Us, Lesson 2</Title>
+            <AdditionalInfo>WordsToAnnotate:sales,companies,questionnaires,popular,different,products</AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="CommonRead">
+            <Grade>4</Grade>
+            <Unit>2</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode 1: Symbols and Us, Lesson 2</Title>
+            <AdditionalInfo>WordsToAnnotate:sales,companies,questionnaires,popular,different,products</AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>4</Grade>
+            <Unit>2</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>5</TaskNumber>
+            <Title>Episode 1: Symbols and Us, Lesson 2</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Image">
+            <Grade>4</Grade>
+            <Unit>2</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode 1: Symbols and Us, Lesson 1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>4</Grade>
+            <Unit>2</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode 1: Symbols and Us, Lesson 2</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="OverviewPage">
+            <Grade>4</Grade>
+            <Unit>2</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode 1: Symbols and Us, Lesson 2</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="SingleEpisodeUnit">
+            <Grade>4</Grade>
+            <Unit>A</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+        <SubjectInfo SubjectName="Math">
+          <TaskInfo TaskName="SecondImage">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Lesson 1: Expressions and Equations</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="ChallengeProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>7</TaskNumber>
+            <Title>Episode 1: Stranger in a Strange Land, Lesson 2</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>5</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>5</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+    </Login>
+    <Login LoginName="KiranAnantapalli">
+      <UserName>fmaliks</UserName>
+      <Password>ghost03</Password>
+      <PersonName>Faiza Malik</PersonName>
+      <UserType>Student</UserType>
+      <SectionedGrades>0</SectionedGrades>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="CommonRead">
+            <Grade>4</Grade>
+            <Unit>2</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>WordsToAnnotate:sales,companies,questionnaires,popular,different</AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>4</Grade>
+            <Unit>2</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>5</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>4</Grade>
+            <Unit>2</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+        <SubjectInfo SubjectName="Math">
+          <TaskInfo TaskName="ChallengeProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>7</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>5</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>5</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+    </Login>
+    <Login LoginName="awhite">
+      <UserName>awhite</UserName>
+      <Password>sch00lnet</Password>
+      <PersonName></PersonName>
+      <UserType>Staff</UserType>
+      <SectionedGrades>0</SectionedGrades>
+    </Login>
+    <Login LoginName="TeacherAeddings">
+      <UserName>TEMSec27grd09</UserName>
+      <Password>psocsq3</Password>
+      <PersonName>TEMsec27grd09FN TEMsec27grd09</PersonName>
+      <UserType>Teacher</UserType>
+      <SectionedGrades>9,10,11,12</SectionedGrades>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+        <SubjectInfo SubjectName="Math">
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+    </Login>
+    <Login LoginName="Margret">
+      <UserName>kfields7</UserName>
+      <Password>sch00lnet</Password>
+      <PersonName>Margrat Pinder</PersonName>
+      <UserType>Teacher</UserType>
+      <SectionedGrades>9,12</SectionedGrades>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Dashboard">
+            <Grade>12</Grade>
+            <Unit>A</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+        <SubjectInfo SubjectName="Math">
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+    </Login>
+    <Login LoginName="Ayshea1">
+      <UserName>mjudy1</UserName>
+      <Password>sch00lnet</Password>
+      <PersonName>Ayshea Mcalister</PersonName>
+      <UserType>Teacher</UserType>
+      <SectionedGrades>9,10,11,12</SectionedGrades>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+        <SubjectInfo SubjectName="Math">
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+    </Login>
+    <Login LoginName="Sec9Apatton">
+      <UserName>TEMSec28grd09</UserName>
+      <Password>psocsq3</Password>
+      <PersonName>TEMsec28grd09FN TEMsec28grd09</PersonName>
+      <UserType>Teacher</UserType>
+      <SectionedGrades>9</SectionedGrades>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="BlankTeacherContent">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="CommonRead">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>WordsToAnnotate:family,created,immigrants,other,based,Refugee</AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NonSectionedTask">
+            <Grade>4</Grade>
+            <Unit>2</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Grade12">
+            <Grade>12</Grade>
+            <Unit>A</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NewUnitToDownload">
+            <Grade>4</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="LessonPreviewProgress">
+            <Grade>4</Grade>
+            <Unit>3</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="UnitOrderVerify">
+            <Grade>4</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NoReceivedNotebooks">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>7</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GradeToScroll">
+            <Grade>4</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>7</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>3</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="SendTaskNotebook1">
+            <Grade>9</Grade>
+            <Unit>2</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>3</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="SingleEpisodeUnit">
+            <Grade>4</Grade>
+            <Unit>A</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+        <SubjectInfo SubjectName="Math">
+          <TaskInfo TaskName="ChallengeProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>7</TaskNumber>
+            <Title>Lesson 2: How Many Solutions?</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="OpenNotebookButton">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>5</TaskNumber>
+            <Title>Lesson 1: Expressions and Equations</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Lesson 2: How Many Solutions?</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>6</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Lesson 2: How Many Solutions?</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblemWithImage">
+            <Grade>9</Grade>
+            <Unit>2</Unit>
+            <Lesson>12</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblemWithOneProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>5</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblemWithMultipleProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>6</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+    </Login>
+    <Login LoginName="UnknownTeacher">
+      <UserName>UnknownTeacher</UserName>
+      <Password>sch00lnet</Password>
+      <PersonName>ApattonName</PersonName>
+      <UserType>Teacher</UserType>
+      <SectionedGrades>7,8,9,10</SectionedGrades>
+    </Login>
+    <Login LoginName="WrongPwdTeacher">
+      <UserName>apatton1</UserName>
+      <Password>UnknownTeacher</Password>
+      <PersonName>ApattonName</PersonName>
+      <UserType>Teacher</UserType>
+      <SectionedGrades>7,8,9,10</SectionedGrades>
+    </Login>
+    <Login LoginName="StudentMauricioSec9Apatton">
+      <UserName>1223235</UserName>
+      <Password>sch00lnet</Password>
+      <PersonName>Mauricio Espinosa</PersonName>
+      <UserType>Student</UserType>
+      <SectionedGrades>9</SectionedGrades>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="CommonRead">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>WordsToAnnotate:everybody,program,Refugee,popular,different</AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NonSectionedTask">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NewUnitToDownload">
+            <Grade>4</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="LessonPreviewProgress">
+            <Grade>4</Grade>
+            <Unit>3</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NoReceivedNotebooks">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>7</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>3</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+        <SubjectInfo SubjectName="Math">
+          <TaskInfo TaskName="ChallengeProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>7</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>5</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>5</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblemWithOneProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>5</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblemWithMultipleProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>6</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NonSectionedTask">
+            <Grade>4</Grade>
+            <Unit>2</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>5</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+    </Login>
+    <Login LoginName="TeacherCyeRobledo">
+      <UserName>TEMSec27grd09</UserName>
+      <Password>psocsq3</Password>
+      <PersonName>TEMsec27grd09FN TEMsec27grd09</PersonName>
+      <UserType>Teacher</UserType>
+      <SectionedGrades>9</SectionedGrades>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="CommonRead">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>WordsToAnnotate:everybody,program,Refugee,popular,different</AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NonSectionedTask">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NewUnitToDownload">
+            <Grade>4</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="LessonPreviewProgress">
+            <Grade>4</Grade>
+            <Unit>3</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NoReceivedNotebooks">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>7</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>3</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+        <SubjectInfo SubjectName="Math">
+          <TaskInfo TaskName="ChallengeProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>7</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>5</TaskNumber>
+            <Title>Lesson 2: How Many Solutions?</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>5</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblemWithImage">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>12</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblemWithOneProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>5</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblemWithMultipleProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>6</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+    </Login>
+    <Login LoginName="Loist">
+      <UserName>S02Sec28grd09</UserName>
+      <Password>psocsq3</Password>
+      <PersonName>S02sec28grd09FN S02sec28grd09</PersonName>
+      <UserType>Student</UserType>
+      <SectionedGrades>9</SectionedGrades>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="CommonRead">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>WordsToAnnotate:everybody,program,Refugee,popular,different</AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NonSectionedTask">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NewUnitToDownload">
+            <Grade>4</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="LessonPreviewProgress">
+            <Grade>4</Grade>
+            <Unit>3</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NoReceivedNotebooks">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>7</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>3</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+        <SubjectInfo SubjectName="Math">
+          <TaskInfo TaskName="ChallengeProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>7</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>5</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>5</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblemWithOneProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>5</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblemWithMultipleProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>6</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+    </Login>
+    <Login LoginName="Markiva">
+      <UserName>755756</UserName>
+      <Password>sch00lnet</Password>
+      <PersonName>Markiva Dozier</PersonName>
+      <UserType>Student</UserType>
+      <SectionedGrades>9,10,11,12</SectionedGrades>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="CommonRead">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>WordsToAnnotate:everybody,program,Refugee,popular,different</AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NonSectionedTask">
+            <Grade>4</Grade>
+            <Unit>2</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NewUnitToDownload">
+            <Grade>4</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="LessonPreviewProgress">
+            <Grade>4</Grade>
+            <Unit>3</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NoReceivedNotebooks">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>7</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>3</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+        <SubjectInfo SubjectName="Math">
+          <TaskInfo TaskName="ChallengeProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>7</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>5</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>5</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblemWithOneProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>5</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblemWithMultipleProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>6</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+    </Login>
+    <Login LoginName="StudentBruceSec9Apatton">
+      <UserName>S01Sec28grd09</UserName>
+      <Password>psocsq3</Password>
+      <PersonName>S01sec28grd09FN S01sec28grd09</PersonName>
+      <UserType>Student</UserType>
+      <SectionedGrades>9,10,11,12</SectionedGrades>
+      <NavigationInfo>
+        <SubjectInfo SubjectName="ELA">
+          <TaskInfo TaskName="CommonRead">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo>WordsToAnnotate:everybody,program,Refugee,popular,Cameroon</AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NonSectionedTask">
+            <Grade>4</Grade>
+            <Unit>2</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>5</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Dashboard">
+            <Grade>12</Grade>
+            <Unit>A</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>2</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NewUnitToDownload">
+            <Grade>4</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="LessonPreviewProgress">
+            <Grade>4</Grade>
+            <Unit>3</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>1</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NoReceivedNotebooks">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>7</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>3</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="SendTaskNotebook1">
+            <Grade>9</Grade>
+            <Unit>2</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>3</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+        <SubjectInfo SubjectName="Math">
+          <TaskInfo TaskName="ChallengeProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>7</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Notebook">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>5</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="Interactive">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>2</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>6</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblemWithOneProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>5</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="GalleryProblemWithMultipleProblem">
+            <Grade>9</Grade>
+            <Unit>1</Unit>
+            <Lesson>6</Lesson>
+            <TaskNumber>4</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+          <TaskInfo TaskName="NonSectionedTask">
+            <Grade>4</Grade>
+            <Unit>2</Unit>
+            <Lesson>1</Lesson>
+            <TaskNumber>5</TaskNumber>
+            <Title>Episode1</Title>
+            <AdditionalInfo></AdditionalInfo>
+          </TaskInfo>
+        </SubjectInfo>
+      </NavigationInfo>
+    </Login>
+    <Login LoginName="InvalidCredentials">
+      <UserName>UnknownTeacher</UserName>
+      <Password>UnknownTeacher</Password>
+      <PersonName>ApattonName</PersonName>
+      <UserType>Teacher</UserType>
+      <SectionedGrades>7,8,9,10</SectionedGrades>
+    </Login>
+  </OS>
+  <OS OSName="Android">
+    <Login LoginName="Sec9Apatton">
+      <UserName>apatton1</UserName>
+      <Password>sch00lnet</Password>
+      <PersonName>ApattonName</PersonName>
+      <UserType>Teacher</UserType>
+      <SectionedGrades>8,9,10</SectionedGrades>
+    </Login>
+    <Login LoginName="Teacher2">
+      <UserName>ajgrimm2</UserName>
+      <Password>sch00lnet</Password>
+      <PersonName>ApattonName</PersonName>
+      <UserType>Teacher</UserType>
+      <SectionedGrades>7,8,9</SectionedGrades>
+    </Login>
+    <Login LoginName="Student1">
+      <UserName>1027005</UserName>
+      <Password>sch00lnet</Password>
+      <PersonName>ApattonName</PersonName>
+      <UserType>Student</UserType>
+      <SectionedGrades>7,8,9</SectionedGrades>
+    </Login>
+  </OS>
+</Login>
