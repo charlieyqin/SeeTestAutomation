@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Pearson.PSCAutomation.Framework;
+using SeeTest.Automation.Framework;
 using System;
 using System.Collections;
 using System.Collections.Generic;

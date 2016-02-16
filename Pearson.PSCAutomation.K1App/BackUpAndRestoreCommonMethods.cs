@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Pearson.PSCAutomation.Framework;
+using SeeTest.Automation.Framework;
 using System.Collections;
 
 namespace Pearson.PSCAutomation.K1App
@@ -130,7 +130,8 @@ namespace Pearson.PSCAutomation.K1App
        public static ArrayList GetNotebookWorkId(AutomationAgent BackUpAndRestoreAutomationAgent)
         {
             ArrayList assetWorkId = new ArrayList();
-            string[] strArray0 = BackUpAndRestoreAutomationAgent.GetAllValues("BackUpAndRestoreView", "WorkId", "accessibilityIdentifier");            for( int i =1;i<=strArray0.Length;i++)
+            string[] strArray0 = BackUpAndRestoreAutomationAgent.GetAllValues("BackUpAndRestoreView", "WorkId", "accessibilityIdentifier");
+            for( int i =1;i<=strArray0.Length;i++)
             {
                 if ((strArray0.Contains("Notebook.audio")) || (strArray0.Contains("Notebook.Image.NotebookKit Images")))
                     assetWorkId.Add(strArray0);

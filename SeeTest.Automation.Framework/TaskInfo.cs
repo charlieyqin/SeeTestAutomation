@@ -8,7 +8,7 @@ using System.IO;
 using System.Reflection;
 using System.Configuration;
 
-namespace Pearson.PSCAutomation.Framework
+namespace SeeTest.Automation.Framework
 {
     public class TaskInfo
     {

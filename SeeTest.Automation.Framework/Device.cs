@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
-namespace Pearson.PSCAutomation.Framework
+namespace SeeTest.Automation.Framework
 {
     public class Device
     {

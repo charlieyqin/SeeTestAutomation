@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Configuration;
 using System.Reflection;
 using System.Net;
-using Pearson.PSCAutomation.Framework;
+using SeeTest.Automation.Framework;
 
 namespace Pearson.PSCAutomation._212App
 {

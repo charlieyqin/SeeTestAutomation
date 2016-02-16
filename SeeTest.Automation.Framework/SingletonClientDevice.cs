@@ -8,7 +8,7 @@ using System.IO;
 using System.Configuration;
 using experitestClient;
 
-namespace Pearson.PSCAutomation.Framework
+namespace SeeTest.Automation.Framework
 {
     public class SingletonClientDevice
     {

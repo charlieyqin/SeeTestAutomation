@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
-using Pearson.PSCAutomation.Framework;
+using SeeTest.Automation.Framework;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Configuration;
 using System.Reflection;

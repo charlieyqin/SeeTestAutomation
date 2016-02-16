@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using experitestClient;
 
-namespace Pearson.PSCAutomation.Framework
+namespace SeeTest.Automation.Framework
 {
     public class ClientDevice
     {

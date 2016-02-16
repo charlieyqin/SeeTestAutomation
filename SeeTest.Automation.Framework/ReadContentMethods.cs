@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Excel1 = Microsoft.Office.Interop.Excel;
 using System.IO;
 
-namespace Pearson.PSCAutomation.Framework
+namespace SeeTest.Automation.Framework
 {
     public static class ReadContentMethods
     {

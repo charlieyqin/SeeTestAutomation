@@ -95,12 +95,6 @@
     <Compile Include="WorkBrowserCommonMethods.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Pearson.PSCAutomation\Pearson.PSCAutomation.Framework.csproj">
-      <Project>{a419fb02-6dae-476e-b1f8-a162ed075489}</Project>
-      <Name>Pearson.PSCAutomation.Framework</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="212SeeTestProject\default\AppIcon_1.properties">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -352,6 +346,12 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <SubType>Designer</SubType>
     </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SeeTest.Automation.Framework\SeeTest.Automation.Framework.csproj">
+      <Project>{a419fb02-6dae-476e-b1f8-a162ed075489}</Project>
+      <Name>SeeTest.Automation.Framework</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

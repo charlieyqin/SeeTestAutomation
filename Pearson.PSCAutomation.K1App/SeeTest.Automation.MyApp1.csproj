@@ -39,9 +39,6 @@
     <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
-    <Reference Include="Microsoft.Office.Interop.MSProject, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
-      <EmbedInteropTypes>True</EmbedInteropTypes>
-    </Reference>
     <Reference Include="System" />
   </ItemGroup>
   <Choose>
@@ -92,12 +89,6 @@
     <Compile Include="CAadoptionTests.cs" />
     <Compile Include="CAadoptionCommonMethods.cs" />
     <Compile Include="SmokeTests.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Pearson.PSCAutomation\Pearson.PSCAutomation.Framework.csproj">
-      <Project>{a419fb02-6dae-476e-b1f8-a162ed075489}</Project>
-      <Name>Pearson.PSCAutomation.Framework</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Content Include="K1SeetestProject\default.xml" />
@@ -406,14 +397,14 @@
     <Reference Include="System.XML" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Pearson.PSCAutomation\Pearson.PSCAutomation.Framework.csproj">
-      <Project>{a419fb02-6dae-476e-b1f8-a162ed075489}</Project>
-      <Name>Pearson.PSCAutomation.Framework</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Folder Include="K1SeetestProject\scenarios\" />
     <Folder Include="K1SeetestProject\scenes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SeeTest.Automation.Framework\SeeTest.Automation.Framework.csproj">
+      <Project>{a419fb02-6dae-476e-b1f8-a162ed075489}</Project>
+      <Name>SeeTest.Automation.Framework</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Pearson.PSCAutomation.Framework;
+using SeeTest.Automation.Framework;
 
 namespace Pearson.PSCAutomation._212App
 {

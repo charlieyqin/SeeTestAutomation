@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Configuration;
 using System.Reflection;
-using Pearson.PSCAutomation.Framework;
+using SeeTest.Automation.Framework;
 
 
 namespace Pearson.PSCAutomation.K1App

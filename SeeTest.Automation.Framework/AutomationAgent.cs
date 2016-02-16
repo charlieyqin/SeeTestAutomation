@@ -11,7 +11,7 @@ using System.Data;
 using Excel;
 using experitestClient;
 
-namespace Pearson.PSCAutomation.Framework
+namespace SeeTest.Automation.Framework
 {
     public class AutomationAgent : IDisposable
     {

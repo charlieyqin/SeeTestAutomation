@@ -10,7 +10,7 @@ using System.IO;
 using experitestClient;
 
 
-namespace Pearson.PSCAutomation.Framework
+namespace SeeTest.Automation.Framework
 {
     public class ClientDeviceFactory
     {
