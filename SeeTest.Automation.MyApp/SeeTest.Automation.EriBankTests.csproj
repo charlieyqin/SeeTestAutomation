@@ -54,7 +54,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="CommonMethods\NavigationActions.cs" />
+    <Compile Include="CommonMethods\LoginActions.cs" />
     <Compile Include="ControlPages\LoginPage.cs" />
     <Compile Include="Tests\LoginTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

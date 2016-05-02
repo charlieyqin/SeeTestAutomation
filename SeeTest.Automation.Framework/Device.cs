@@ -9,65 +9,28 @@ namespace SeeTest.Automation.Framework
 {
     public class Device
     {
-        private string name;
-        private string seeTestDeviceName;
-        private string connectedOver;
-        private string version;
-        private int port;
-
         public Device(string name, string seeTestDeviceName, string connectedOver, string version, int port = 8889)
         {
-            this.name = name;
-            this.seeTestDeviceName = seeTestDeviceName;
-            this.connectedOver = connectedOver;
-            this.version = version;
-            this.port = port;
+            this.Name = name;
+            this.SeeTestDeviceName = seeTestDeviceName;
+            this.ConnectedOver = connectedOver;
+            this.Version = version;
+            this.Port = port;
         }
 
         public Device(XElement deviceXElement)
         {
-            name = deviceXElement.Attribute("DeviceName").Value;
-            seeTestDeviceName = deviceXElement.Element("SeeTestDeviceName").Value;
-            version = deviceXElement.Element("Version").Value;
-            connectedOver = deviceXElement.Element("ConnectedOver").Value;
-            port = int.Parse(deviceXElement.Element("Port").Value);
+            Name = deviceXElement.Attribute("DeviceName").Value;
+            SeeTestDeviceName = deviceXElement.Element("SeeTestDeviceName").Value;
+            Version = deviceXElement.Element("Version").Value;
+            ConnectedOver = deviceXElement.Element("ConnectedOver").Value;
+            Port = int.Parse(deviceXElement.Element("Port").Value);
         }
 
-        public string Name
-        {
-            get
-            {
-                return name;
-            }
-        }
-
-        public string SeeTestDeviceName
-        {
-            get
-            {
-                return seeTestDeviceName;
-            }
-        }
-        public string Version
-        {
-            get
-            {
-                return version;
-            }
-        }
-        public string ConnectedOver
-        {
-            get
-            {
-                return connectedOver;
-            }
-        }
-        public int Port
-        {
-            get
-            {
-                return port;
-            }
-        }
+        public string Name { get; set; }
+        public string SeeTestDeviceName { get; set; }
+        public string Version { get; set; }
+        public string ConnectedOver { get; set; }
+        public int Port { get; set; }
     }
 }

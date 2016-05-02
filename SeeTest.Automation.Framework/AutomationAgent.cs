@@ -38,17 +38,9 @@ namespace SeeTest.Automation.Framework
             this.client = this.clientDevice.Client;
             this.device = this.clientDevice.Device;
             this.testDetails = testDetails;
-            this.appName = ConfigurationManager.AppSettings["AppName"].ToString();
-            if (ConfigurationManager.AppSettings["DevCodeBranch"].ToString() == "CADevelop")
-            {
-                this.launchingAppName = ConfigurationManager.AppSettings["CADevLaunchingAppName"].ToString();
-            }
-            else
-            {
-                this.launchingAppName = ConfigurationManager.AppSettings["DevLaunchingAppName"].ToString();
-            }
+            this.appName = ConfigurationManager.AppSettings["AppName"].ToString();            
+            this.launchingAppName = ConfigurationManager.AppSettings["DevLaunchingAppName"].ToString();
             this.osName = ConfigurationManager.AppSettings["OS"].ToString();
-            //Load the rootXElement from controls.xml
             string startupPath = System.IO.Directory.GetCurrentDirectory();
             string outPutDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().CodeBase);            
             this.projectBaseDirectory = new Uri(outPutDirectory + "\\" + ConfigurationManager.AppSettings["ProjectBaseDirectory"].ToString()).LocalPath;
@@ -121,7 +113,7 @@ namespace SeeTest.Automation.Framework
                 client.StartMonitor("cpu");
                 client.StartMonitor("memory");
             }
-            client.SendText("{LANDSCAPE}");
+            //client.SendText("{LANDSCAPE}");
             client.SetProperty("ios.elementsendtext.action.fire", "true");
             if (launchApp)
             {

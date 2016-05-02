@@ -12,6 +12,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D2098D89-6721-4C5F-A38A-199F0F8C6626}"
 	ProjectSection(SolutionItems) = preProject
 		212SmokeTestSettings.testsettings = 212SmokeTestSettings.testsettings
+		EriBankSettings.testsettings = EriBankSettings.testsettings
 		K1SmokeTestSettings.testsettings = K1SmokeTestSettings.testsettings
 		ParallelTestSettings.testsettings = ParallelTestSettings.testsettings
 	EndProjectSection

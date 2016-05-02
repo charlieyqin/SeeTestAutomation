@@ -10,57 +10,32 @@ namespace SeeTest.Automation.Framework
 {
     public class ClientDevice
     {
-        Client client;
-        Device device; 
-        bool isClientReady;
-        string hostName;
-        int port;
-        string seeTestDeviceName;
-        string version;
-        string connectedOver;
-        Boolean useSessionId = true;
+        public string HostName { get; private set; }
+        public string SeeTestDeviceName { get; private set; }
+        public string Version { get; private set; }
+        public string ConnectedOver { get; private set; }
+        public int Port { get; private set; }
+        public Device Device { get; private set; }
+        public Client Client { get; private set; }
+        public bool IsClientReady { get; set; }
+
         public ClientDevice (Client client, Device device,  bool isclientReady)
         {
-            this.client = client;
-            this.device = device;            
-            this.isClientReady = isclientReady;
+            this.Client = client;
+            this.Device = device;            
+            this.IsClientReady = isclientReady;
         }
         public ClientDevice(XElement deviceXElement)
         {
-            this.hostName = deviceXElement.Element("Host").Value;
-            this.seeTestDeviceName = deviceXElement.Element("SeeTestDeviceName").Value;
-            this.version = deviceXElement.Element("Version").Value;
-            this.connectedOver = deviceXElement.Element("ConnectedOver").Value;
-            this.port = int.Parse(deviceXElement.Element("Port").Value);
-            this.client = new Client(hostName, port, useSessionId);
-            this.device = new Device(deviceXElement);
-            this.isClientReady = true;
-
+            this.HostName = deviceXElement.Element("Host").Value;
+            this.SeeTestDeviceName = deviceXElement.Element("SeeTestDeviceName").Value;
+            this.Version = deviceXElement.Element("Version").Value;
+            this.ConnectedOver = deviceXElement.Element("ConnectedOver").Value;
+            this.Port = int.Parse(deviceXElement.Element("Port").Value);
+            this.Client = new Client(HostName, Port, true);
+            this.Device = new Device(deviceXElement);
+            this.IsClientReady = true;
         }
-        public Device Device
-        {
-            get
-            {
-                return device;
-            }
-        }
-        public Client Client
-        {
-            get
-            {
-                return client;                
-            }            
-        }
-        public bool IsClientReady
-        {
-            get
-            {
-                return isClientReady;
-            }
-            set
-            {
-                isClientReady = value;
-            }
-        }        
+   
     }
 }

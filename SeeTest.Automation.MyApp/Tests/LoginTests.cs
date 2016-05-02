@@ -1,6 +1,7 @@
 ﻿using System;
 using SeeTest.Automation.Framework;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using SeeTest.Automation.EriBankTests.CommonMethods;
 
 namespace SeeTest.Automation.EriBankTests
 {
@@ -15,7 +16,7 @@ namespace SeeTest.Automation.EriBankTests
             {
                 try
                 {
-
+                    LoginActions.Login(loginAutomationAgent, "company", "company");
                 }
                 catch (Exception ex)
                 {
