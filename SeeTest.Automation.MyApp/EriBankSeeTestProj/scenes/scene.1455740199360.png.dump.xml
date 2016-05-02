@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?><nodes ignored="true" web="false">
+<properties>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="1536" ignored="false" w="2048" web="false" x="0" y="0">
+<properties>
+<property type="class" value="UIAWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="2048"/>
+<property type="height" value="1536"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2524" ignored="false" w="2524" web="false" x="-238" y="-494">
+<properties>
+<property type="class" value="UIAImage"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-238"/>
+<property type="y" value="-494"/>
+<property type="width" value="2524"/>
+<property type="height" value="2524"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1536" ignored="false" w="2048" web="false" x="0" y="0">
+<properties>
+<property type="class" value="UIAWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="2048"/>
+<property type="height" value="1536"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="50" ignored="false" w="20694" web="false" x="-1656" y="6072">
+<properties>
+<property type="class" value="UIAImage"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-1656"/>
+<property type="y" value="6072"/>
+<property type="width" value="20694"/>
+<property type="height" value="50"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2270" ignored="false" w="1746" web="false" x="3956" y="6292">
+<properties>
+<property type="accessibilityLabel" value="Mail"/>
+<property type="value" value="10 unread e-mails"/>
+<property type="text" value="Mail"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="3956"/>
+<property type="y" value="6292"/>
+<property type="width" value="1746"/>
+<property type="height" value="2270"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2270" ignored="false" w="1746" web="false" x="15840" y="6292">
+<properties>
+<property type="accessibilityLabel" value="Settings"/>
+<property type="value" value="1 new item"/>
+<property type="text" value="Settings"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="15840"/>
+<property type="y" value="6292"/>
+<property type="width" value="1746"/>
+<property type="height" value="2270"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2068" ignored="false" w="1544" web="false" x="-2" y="6494">
+<properties>
+<property type="accessibilityLabel" value="Messages"/>
+<property type="text" value="Messages"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-2"/>
+<property type="y" value="6494"/>
+<property type="width" value="1544"/>
+<property type="height" value="2068"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2068" ignored="false" w="1544" web="false" x="7918" y="6494">
+<properties>
+<property type="accessibilityLabel" value="Safari"/>
+<property type="text" value="Safari"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="7918"/>
+<property type="y" value="6494"/>
+<property type="width" value="1544"/>
+<property type="height" value="2068"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2068" ignored="false" w="1544" web="false" x="11878" y="6494">
+<properties>
+<property type="accessibilityLabel" value="Music"/>
+<property type="text" value="Music"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="11878"/>
+<property type="y" value="6494"/>
+<property type="width" value="1544"/>
+<property type="height" value="2068"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="12288" ignored="false" w="20694" web="false" x="-1656" y="-6518">
+<properties>
+<property type="class" value="UIAScrollView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-1656"/>
+<property type="y" value="-6518"/>
+<property type="width" value="20694"/>
+<property type="height" value="12288"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2068" ignored="false" w="1544" web="false" x="-4" y="-5710">
+<properties>
+<property type="accessibilityLabel" value="Speedtest"/>
+<property type="text" value="Speedtest"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-4"/>
+<property type="y" value="-5710"/>
+<property type="width" value="1544"/>
+<property type="height" value="2068"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2068" ignored="false" w="1704" web="false" x="4398" y="-5712">
+<properties>
+<property type="accessibilityLabel" value="Game Center"/>
+<property type="text" value="Game Center"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="4398"/>
+<property type="y" value="-5712"/>
+<property type="width" value="1704"/>
+<property type="height" value="2068"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2068" ignored="false" w="1544" web="false" x="8430" y="-5712">
+<properties>
+<property type="accessibilityLabel" value="2048"/>
+<property type="text" value="2048"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="8430"/>
+<property type="y" value="-5712"/>
+<property type="width" value="1544"/>
+<property type="height" value="2068"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2068" ignored="false" w="1544" web="false" x="12390" y="-5712">
+<properties>
+<property type="accessibilityLabel" value="Chrome"/>
+<property type="text" value="Chrome"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12390"/>
+<property type="y" value="-5712"/>
+<property type="width" value="1544"/>
+<property type="height" value="2068"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2068" ignored="false" w="1544" web="false" x="16352" y="-5712">
+<properties>
+<property type="accessibilityLabel" value="Mayfly"/>
+<property type="text" value="Mayfly"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16352"/>
+<property type="y" value="-5712"/>
+<property type="width" value="1544"/>
+<property type="height" value="2068"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2068" ignored="false" w="1544" web="false" x="-4" y="-2862">
+<properties>
+<property type="accessibilityLabel" value="Browser"/>
+<property type="text" value="Browser"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-4"/>
+<property type="y" value="-2862"/>
+<property type="width" value="1544"/>
+<property type="height" value="2068"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2068" ignored="false" w="1544" web="false" x="4468" y="-2862">
+<properties>
+<property type="accessibilityLabel" value="Paltiel"/>
+<property type="text" value="Paltiel"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="4468"/>
+<property type="y" value="-2862"/>
+<property type="width" value="1544"/>
+<property type="height" value="2068"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2068" ignored="false" w="1544" web="false" x="8430" y="-2862">
+<properties>
+<property type="accessibilityLabel" value="YouTube"/>
+<property type="text" value="YouTube"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="8430"/>
+<property type="y" value="-2862"/>
+<property type="width" value="1544"/>
+<property type="height" value="2068"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2068" ignored="false" w="1544" web="false" x="12390" y="-2862">
+<properties>
+<property type="accessibilityLabel" value="PSoC"/>
+<property type="text" value="PSoC"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="12390"/>
+<property type="y" value="-2862"/>
+<property type="width" value="1544"/>
+<property type="height" value="2068"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2068" ignored="false" w="1846" web="false" x="16200" y="-2862">
+<properties>
+<property type="accessibilityLabel" value="develop-1.6.0.2192"/>
+<property type="text" value="develop-1.6.0.2192"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="16200"/>
+<property type="y" value="-2862"/>
+<property type="width" value="1846"/>
+<property type="height" value="2068"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2068" ignored="false" w="1846" web="false" x="-154" y="-4">
+<properties>
+<property type="accessibilityLabel" value="F-automation-ids-1.6.0.7742-PoC"/>
+<property type="text" value="F-automation-ids-1.6.0.7742-PoC"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-154"/>
+<property type="y" value="-4"/>
+<property type="width" value="1846"/>
+<property type="height" value="2068"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="2068" ignored="false" w="1846" web="false" x="4316" y="-4">
+<properties>
+<property type="accessibilityLabel" value="develop-1.6.0.2837"/>
+<property type="text" value="develop-1.6.0.2837"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="4316"/>
+<property type="y" value="-4"/>
+<property type="width" value="1846"/>
+<property type="height" value="2068"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="2068" ignored="false" w="1544" web="false" x="8430" y="-4">
+<properties>
+<property type="accessibilityLabel" value="EriBank"/>
+<property type="text" value="EriBank"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="8430"/>
+<property type="y" value="-4"/>
+<property type="width" value="1544"/>
+<property type="height" value="2068"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="12288" ignored="false" w="20694" web="false" x="-1656" y="-6518">
+<properties>
+<property type="class" value="UIAScrollView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-1656"/>
+<property type="y" value="-6518"/>
+<property type="width" value="20694"/>
+<property type="height" value="12288"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="50" ignored="false" w="15520" web="false" x="-1656" y="5720">
+<properties>
+<property type="class" value="UIAImage"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-1656"/>
+<property type="y" value="5720"/>
+<property type="width" value="15520"/>
+<property type="height" value="50"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+<node h="848" ignored="false" w="20694" web="false" x="-1656" y="5558">
+<properties>
+<property type="value" value="Page 2 of 2"/>
+<property type="class" value="UIAPageIndicator"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-1656"/>
+<property type="y" value="5558"/>
+<property type="width" value="20694"/>
+<property type="height" value="848"/>
+<property type="hidden" value="true"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="88" ignored="false" w="2048" web="false" x="0" y="2">
+<properties>
+<property type="accessibilityLabel" value="UIView"/>
+<property type="class" value="UIANavigationBar"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="2"/>
+<property type="width" value="2048"/>
+<property type="height" value="88"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="60" ignored="false" w="1608" web="false" x="220" y="14">
+<properties>
+<property type="value" value="Spotlight Search"/>
+<property type="class" value="UIASearchBar"/>
+<property type="enabled" value="true"/>
+<property type="x" value="220"/>
+<property type="y" value="14"/>
+<property type="width" value="1608"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="60" ignored="false" w="108" web="false" x="1884" y="14">
+<properties>
+<property type="accessibilityLabel" value="Cancel"/>
+<property type="text" value="Cancel"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1884"/>
+<property type="y" value="14"/>
+<property type="width" value="108"/>
+<property type="height" value="60"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="40" ignored="false" w="106" web="false" x="1884" y="24">
+<properties>
+<property type="accessibilityLabel" value="Cancel"/>
+<property type="value" value="Cancel"/>
+<property type="text" value="Cancel"/>
+<property type="class" value="UIAStaticText"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1884"/>
+<property type="y" value="24"/>
+<property type="width" value="106"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="26" ignored="false" w="26" web="false" x="24" y="40">
+<properties>
+<property type="accessibilityLabel" value="Back"/>
+<property type="text" value="Back"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="24"/>
+<property type="y" value="40"/>
+<property type="width" value="26"/>
+<property type="height" value="26"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1448" ignored="false" w="1656" web="false" x="196" y="88">
+<properties>
+<property type="accessibilityLabel" value="Empty list"/>
+<property type="text" value="Empty list"/>
+<property type="class" value="UIATableView"/>
+<property type="enabled" value="true"/>
+<property type="x" value="196"/>
+<property type="y" value="88"/>
+<property type="width" value="1656"/>
+<property type="height" value="1448"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="40" ignored="false" w="168" web="false" x="262" y="156">
+<properties>
+<property type="accessibilityLabel" value="No Results"/>
+<property type="value" value="No Results"/>
+<property type="text" value="No Results"/>
+<property type="class" value="UIAStaticText"/>
+<property type="enabled" value="true"/>
+<property type="x" value="262"/>
+<property type="y" value="156"/>
+<property type="width" value="168"/>
+<property type="height" value="40"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="160" ignored="false" w="212" web="false" x="-2" y="1380">
+<properties>
+<property type="accessibilityLabel" value="Double tap to open"/>
+<property type="class" value="UIAButton"/>
+<property type="enabled" value="true"/>
+<property type="x" value="-2"/>
+<property type="y" value="1380"/>
+<property type="width" value="212"/>
+<property type="height" value="160"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+<node h="1536" ignored="false" w="2048" web="false" x="0" y="0">
+<properties>
+<property type="class" value="UIAWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="2048"/>
+<property type="height" value="1536"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="1536" ignored="false" w="2048" web="false" x="0" y="0">
+<properties>
+<property type="class" value="UIAWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="2048"/>
+<property type="height" value="1536"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="1536" ignored="false" w="2048" web="false" x="0" y="0">
+<properties>
+<property type="class" value="UIAWindow"/>
+<property type="enabled" value="true"/>
+<property type="x" value="0"/>
+<property type="y" value="0"/>
+<property type="width" value="2048"/>
+<property type="height" value="1536"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="2048" ignored="false" w="40" web="false" x="1494" y="0">
+<properties>
+<property type="class" value="UIAStatusBar"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1494"/>
+<property type="y" value="0"/>
+<property type="width" value="40"/>
+<property type="height" value="2048"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="false"/>
+</properties>
+<children>
+<node h="70" ignored="false" w="40" web="false" x="1496" y="10">
+<properties>
+<property type="accessibilityLabel" value="2 of 5 bars, signal strength"/>
+<property type="text" value="2 of 5 bars, signal strength"/>
+<property type="class" value="UIAElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1496"/>
+<property type="y" value="10"/>
+<property type="width" value="40"/>
+<property type="height" value="70"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="82" ignored="false" w="40" web="false" x="1496" y="86">
+<properties>
+<property type="accessibilityLabel" value="Verizon network"/>
+<property type="text" value="Verizon network"/>
+<property type="class" value="UIAElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1496"/>
+<property type="y" value="86"/>
+<property type="width" value="40"/>
+<property type="height" value="82"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="26" ignored="false" w="40" web="false" x="1496" y="178">
+<properties>
+<property type="accessibilityLabel" value="3 of 3 Wi-Fi bars"/>
+<property type="value" value="epic"/>
+<property type="text" value="3 of 3 Wi-Fi bars"/>
+<property type="class" value="UIAElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1496"/>
+<property type="y" value="178"/>
+<property type="width" value="40"/>
+<property type="height" value="26"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="90" ignored="false" w="40" web="false" x="1496" y="978">
+<properties>
+<property type="accessibilityLabel" value="3:16 PM"/>
+<property type="text" value="3:16 PM"/>
+<property type="class" value="UIAElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1496"/>
+<property type="y" value="978"/>
+<property type="width" value="40"/>
+<property type="height" value="90"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="true"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="134" ignored="false" w="40" web="false" x="1496" y="1902">
+<properties>
+<property type="accessibilityLabel" value="100% battery power, On AC Power"/>
+<property type="text" value="100% battery power, On AC Power"/>
+<property type="class" value="UIAElement"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1496"/>
+<property type="y" value="1902"/>
+<property type="width" value="40"/>
+<property type="height" value="134"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="true"/>
+</properties>
+<children/>
+</node>
+<node h="110" ignored="false" w="88" web="false" x="1472" y="1878">
+<properties>
+<property type="class" value="UIAImage"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1472"/>
+<property type="y" value="1878"/>
+<property type="width" value="88"/>
+<property type="height" value="110"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+<node h="62" ignored="false" w="40" web="false" x="1496" y="1902">
+<properties>
+<property type="class" value="UIAImage"/>
+<property type="enabled" value="true"/>
+<property type="x" value="1496"/>
+<property type="y" value="1902"/>
+<property type="width" value="40"/>
+<property type="height" value="62"/>
+<property type="hidden" value="false"/>
+<property type="onScreen" value="false"/>
+<property type="top" value="false"/>
+</properties>
+<children/>
+</node>
+</children>
+</node>
+</children>
+</node>
+</children>
+</nodes>

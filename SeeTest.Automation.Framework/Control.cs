@@ -9,113 +9,31 @@ namespace SeeTest.Automation.Framework
 {
     public class Control
     {
-        private string zone;
-        private string element;
-        private string controlName;
-        private int index;
-        private string controlType;
-        private string controlText;
-        private int xcoordinate;
-        private int ycoordinate;
+        public string Zone { get; private set; }
+        public string Element { get; private set; }
+        public string ControlName { get; private set; }
+        public string ControlType { get; private set; }
+        public string ControlText { get; private set; }
+        public int Index { get; private set; }
 
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="zone"></param>
-        /// <param name="element"></param>
-        /// <param name="controlName"></param>
-        /// <param name="controlType"></param>
-        /// <param name="controlText"></param>
-        /// <param name="xcoordinate"></param>
-        /// <param name="ycoordinate"></param>
-        /// <param name="index"></param>
-        public Control(string zone, string element, string controlName, string controlType, string controlText, int xcoordinate, int ycoordinate, int index=0)
+        public Control(string zone, string element, string controlName, string controlText, string controlType, int index = 0)
         {
-            this.zone = zone;
-            this.element = element;
-            this.controlName = controlName;
-            this.controlType = controlType;
-            this.controlText = controlText;
-            this.xcoordinate = xcoordinate;
-            this.ycoordinate = ycoordinate;
-            this.index = index;
+            this.Zone = zone;
+            this.Element = element;
+            this.ControlType = controlType;
+            this.ControlName = controlName;
+            this.ControlText = controlText;
+            this.Index = index;
         }
-
-        public Control(XElement controlXElement)
+        
+        public Control(string zone, string element, string controlName, string controlText, string controlType, int index = 0, params string[] dynamicVariable)
         {
-            this.zone = controlXElement.Element("Zone").Value;
-            this.element = controlXElement.Element("Element").Value;
-            this.controlName = controlXElement.Attribute("ControlName").ToString();
-            this.controlType = controlXElement.Element("ControlType").Value;
-            this.controlText = controlXElement.Element("ControlText").Value;
-            this.index = int.Parse(controlXElement.Element("Index").Value);
-            this.xcoordinate = controlXElement.Element("XCoordinate") != null ? int.Parse(controlXElement.Element("XCoordinate").Value) : 0;
-            this.ycoordinate = controlXElement.Element("YCoordinate") != null ? int.Parse(controlXElement.Element("YCoordinate").Value) : 0;
+            this.Zone = zone;
+            this.Element = string.Format(element, dynamicVariable);
+            this.ControlType = controlType;
+            this.ControlName = controlName;
+            this.ControlText = controlText;
+            this.Index = index;
         }
-        public string Zone
-        {
-            get
-            {
-                return zone;
-            }
-        }
-        public string Element
-        {
-            get
-            {
-                return element;
-            }
-            set
-            {
-                element = value;
-            }
-        }
-        public string ControlName
-        {
-            get
-            {
-                return controlName;
-            }
-        }
-        public string ControlType
-        {
-            get
-            {
-                return controlType;
-            }
-        }
-        public string ControlText
-        {
-            get
-            {
-                return controlText;
-            }
-            set
-            {
-                controlText = value;
-            }
-        }
-        public int Index
-        {
-            get
-            {
-                return index;
-            }
-        }
-        public int XCoordinate
-        {
-            get
-            {
-                return xcoordinate;
-            }
-        }
-        public int YCoordinate
-        {
-            get
-            {
-                return ycoordinate;
-            }
-        }
-
     }
 }

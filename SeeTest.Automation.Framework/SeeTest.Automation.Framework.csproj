@@ -35,14 +35,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CookComputing.XmlRpcV2, Version=2.4.0.0, Culture=neutral, PublicKeyToken=a7d6e17aa302004d, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>SeeTestDlls\CookComputing.XmlRpcV2.dll</HintPath>
-    </Reference>
-    <Reference Include="Excel.4.5, Version=2.1.2.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>SeeTestDlls\Excel.4.5.dll</HintPath>
-    </Reference>
     <Reference Include="imageClient, Version=1.0.0.0, Culture=neutral, PublicKeyToken=99ff8190b133b1f0, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>SeeTestDlls\imageClient.dll</HintPath>
@@ -94,10 +86,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="SeeTestDlls\CookComputing.XmlRpcV2.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="SeeTestDlls\Excel.4.5.dll" />
     <Content Include="SeeTestDlls\imageClient.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
