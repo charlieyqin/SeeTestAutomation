@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><commands>
 <command enable="true" name="SetDevice(Device)">
 <parameters>
-<parameter defaultValue="ios_app:iPad11" description="Device name" name="Device" pattern="" type="application"/>
+<parameter defaultValue="ios_app:Lab1" description="Device name" name="Device" pattern="(.+)" type="application"/>
 </parameters>
 </command>
 <command enable="true" name="Launch(activity, instrument, stopIfRunning)">
 <parameters>
-<parameter defaultValue="com.experitest.ExperiBank" description="The application main activity or URL" name="Activity/URL" pattern="" type="launch"/>
-<parameter defaultValue="true" description="If set to true then will launch in instrument mode" name="Instrument" pattern="" type="bool"/>
-<parameter defaultValue="false" description="If set to true then will stop the running process before launching it" name="Stop If Running" pattern="" type="bool"/>
+<parameter defaultValue="com.experitest.ExperiBank" description="The application main activity or URL" name="Activity/URL" pattern="(.+)" type="launch"/>
+<parameter defaultValue="true" description="If set to true then will launch in instrument mode" name="Instrument" pattern="(true|false)" type="bool"/>
+<parameter defaultValue="false" description="If set to true then will stop the running process before launching it" name="Stop If Running" pattern="(true|false)" type="bool"/>
 </parameters>
 </command>
 </commands>

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using SeeTest.Automation.Framework;
 
-namespace SeeTest.Automation.EriBankTests.ControlPages
+namespace SeeTest.Automation.EriBankTests.iOSControlPages
 {
     public static class LoginPage
     {

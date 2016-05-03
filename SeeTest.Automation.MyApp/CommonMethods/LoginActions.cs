@@ -3,7 +3,11 @@ using System.Text;
 using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using SeeTest.Automation.Framework;
-using SeeTest.Automation.EriBankTests.ControlPages;
+#if iOS
+using SeeTest.Automation.EriBankTests.iOSControlPages;
+#elif Android
+using SeeTest.Automation.EriBankTests.AndroidControlPages;
+#endif
 
 namespace SeeTest.Automation.EriBankTests.CommonMethods
 {

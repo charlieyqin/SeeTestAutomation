@@ -1,5 +1,5 @@
-#Mon May 02 14:32:05 EDT 2016
-mobile=true
+#Tue May 03 12:00:42 EDT 2016
+mobile=false
 platform=GENERIC
 default.ios.user=root
 lastZone=default
@@ -7,5 +7,5 @@ default.ios.password=alpine
 version=2
 app.name=ios_app\:Lab1
 last.test=SampleScenario
-text_substitutions=
 description=Experi Bank App SeeTest Project
+text_substitutions=
