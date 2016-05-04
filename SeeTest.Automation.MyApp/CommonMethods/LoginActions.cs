@@ -18,17 +18,17 @@ namespace SeeTest.Automation.EriBankTests.CommonMethods
     {
         public static void SetUsername(AutomationAgent agent, string username)
         {
-            agent.SetText(LoginPage.UserNameTextbox(), username);
+            agent.SetText(LoginPage.UserNameTextbox, username);
         }
 
         public static void SetPassword(AutomationAgent agent, string password)
         {
-            agent.SetText(LoginPage.PasswordTextbox(), password);
+            agent.SetText(LoginPage.PasswordTextbox, password);
         }
 
         public static void ClickLogin(AutomationAgent agent)
         {
-            agent.Click(LoginPage.LoginButton());
+            agent.Click(LoginPage.LoginButton);
         }
 
         public static void Login(AutomationAgent agent, string username, string password)

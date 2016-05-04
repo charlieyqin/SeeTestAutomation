@@ -9,24 +9,28 @@ namespace SeeTest.Automation.EriBankTests.AndroidControlPages
 {
     public static class LoginPage
     {
-        public static Control UserNameTextbox()
+        private static Control userNameTextbox = new Control("Native", "xpath=//*[@accessibilityIdentifier='usernameTextField']", "UserName", "UserName", "Textbox");
+        private static Control passwordTextbox = new Control("Native", "xpath=//*[@accessibilityIdentifier='passwordTextField']", "Password", "Password", "Textbox");
+        private static Control loginButton = new Control("Native", "xpath=//*[@accessibilityLabel='loginButton']", "Login", "Login", "Button");
+        private static Control loginLabel = new Control("Native", "xpath=//*[@accessibilityLabel='Login']", "Login", "Login", "Label");
+        public static Control UserNameTextbox
         {
-            return new Control("Native", "xpath=//*[@accessibilityIdentifier='usernameTextField']", "UserName", "UserName", "Textbox");
+            get { return userNameTextbox; }
         }
 
-        public static Control PasswordTextbox()
+        public static Control PasswordTextbox
         {
-            return new Control("Native", "xpath=//*[@accessibilityIdentifier='passwordTextField']", "Password", "Password", "Textbox");
+            get { return passwordTextbox; }
         }
 
-        public static Control LoginButton()
+        public static Control LoginButton
         {
-            return new Control("Native", "xpath=//*[@accessibilityLabel='loginButton']", "Login", "Login", "Button");
+            get { return loginButton; }
         }
 
-        public static Control LoginLabel()
+        public static Control LoginLabel
         {
-            return new Control("Native", "xpath=//*[@accessibilityLabel='Login']", "Login", "Login", "Label");
+            get { return loginLabel; }
         }
     }
 }
