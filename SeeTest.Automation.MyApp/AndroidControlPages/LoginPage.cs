@@ -9,28 +9,56 @@ namespace SeeTest.Automation.EriBankTests.AndroidControlPages
 {
     public static class LoginPage
     {
-        private static Control userNameTextbox = new Control("Native", "xpath=//*[@accessibilityIdentifier='usernameTextField']", "UserName", "UserName", "Textbox");
-        private static Control passwordTextbox = new Control("Native", "xpath=//*[@accessibilityIdentifier='passwordTextField']", "Password", "Password", "Textbox");
-        private static Control loginButton = new Control("Native", "xpath=//*[@accessibilityLabel='loginButton']", "Login", "Login", "Button");
-        private static Control loginLabel = new Control("Native", "xpath=//*[@accessibilityLabel='Login']", "Login", "Login", "Label");
+        private static Control userNameTextbox;
+        private static Control passwordTextbox;
+        private static Control loginButton;
+        private static Control loginLabel;
         public static Control UserNameTextbox
         {
-            get { return userNameTextbox; }
+            get
+            {
+                if (userNameTextbox == null)
+                {
+                    userNameTextbox = new Control("Native", "xpath=//*[@accessibilityIdentifier='usernameTextField']", "UserName", "UserName", "Textbox");
+                }
+                return userNameTextbox;
+            }
         }
 
         public static Control PasswordTextbox
         {
-            get { return passwordTextbox; }
+            get
+            {
+                if (passwordTextbox == null)
+                {
+                    passwordTextbox = new Control("Native", "xpath=//*[@accessibilityIdentifier='passwordTextField']", "Password", "Password", "Textbox");
+                }
+                return passwordTextbox;
+            }
         }
 
         public static Control LoginButton
         {
-            get { return loginButton; }
+            get
+            {
+                if (loginButton == null)
+                {
+                    loginButton = new Control("Native", "xpath=//*[@accessibilityLabel='loginButton']", "Login", "Login", "Button");
+                }
+                return loginButton;
+            }
         }
 
         public static Control LoginLabel
         {
-            get { return loginLabel; }
+            get
+            {
+                if (loginLabel == null)
+                {
+                    loginLabel = new Control("Native", "xpath=//*[@accessibilityLabel='Login']", "Login", "Login", "Label");
+                }
+                return loginLabel;
+            }
         }
     }
 }

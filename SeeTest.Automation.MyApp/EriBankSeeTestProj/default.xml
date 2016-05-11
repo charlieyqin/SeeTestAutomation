@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><domain fixed="false" fullWindow="true" name="default"/>
+<?xml version="1.0" encoding="UTF-8"?><domain fixed="false" fullWindow="true" name="default">
+<obj text="EriBankLogo" version="1">
+<images enable="true">
+<image file="default\EriBankLogo.PNG" jump="1" mainColor="-b2b2b3" max="0" min="0" scanner="Advance Similarity" similarity="97"/>
+</images>
+<text color="2147483647" enable="true" filter="false" ignoreCase="false" regexp="false" sensitivity="10" text="eribank"/>
+<native aiIOS="logo.png" alIOS="" class="" classBB="" classIOS="" classWP="" contentDescription="" contentWP="" enable="false" enableBB="false" enableIOS="true" enableWP="false" hint="" id="" method="class" methodBB="class" methodIOS="accessibilityIdentifier" methodWP="class" nameWP="" placeholderIOS="" scriptIOS="" text="" textBB="" textIOS="" textWP="" value="" xpath="" xpathIOS="" xpathWP=""/>
+<web enable="false" method="" value=""/>
+</obj>
+</domain>
