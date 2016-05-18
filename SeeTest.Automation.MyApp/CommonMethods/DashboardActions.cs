@@ -51,6 +51,20 @@ namespace SeeTest.Automation.EriBankTests.CommonMethods
             }
             return status;
         }
+        public static bool VerifyAllDefaultControls(AutomationAgent agent, out string message)
+        {
+            message = string.Empty;
+            bool status = true;
+            foreach(Control control in DashboardPage.DefaultControls)
+            {
+                if (!agent.IsElementFound(control))
+                {
+                    message = control.ControlName + " Does not exist \n";
+                    status = false;
+                }
+            }
+            return status;
+        }
 
         public static void ClickMakePayment(AutomationAgent agent)
         {

@@ -2,7 +2,8 @@
 <TestSettings name="EriBankSettings" id="3230ea62-7373-45e6-9c77-c7c735361e79" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
   <Description>These are default test settings for a local test run.</Description>
   <Deployment>
-    <DeploymentItem filename="SeeTest.Automation.MyApp\Xml\" />
+    <DeploymentItem filename="SeeTest.Automation.MyApp\Xml\" outputDirectory="Xml\"/>
+    <DeploymentItem filename="SeeTest.Automation.MyApp\EriBankSeeTestProj\" outputDirectory="EriBankSeeTestProj\"/>
   </Deployment>
   <Execution>
     <TestTypeSpecific>

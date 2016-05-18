@@ -70,7 +70,9 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="EriBankSeeTestProj\.project">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -104,9 +106,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="EriBankSeeTestProj\scenes\scene.1462826015613.png.dump.xml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Xml\Controls.xml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Xml\Devices.xml">

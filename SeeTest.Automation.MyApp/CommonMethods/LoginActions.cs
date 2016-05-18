@@ -37,5 +37,12 @@ namespace SeeTest.Automation.EriBankTests.CommonMethods
             SetPassword(agent, password);
             ClickLogin(agent);
         }
+
+        public static void Login(AutomationAgent agent, Login login)
+        {
+            SetUsername(agent, login.UserName);
+            SetPassword(agent, login.Password);
+            ClickLogin(agent);
+        }
     }
 }

@@ -10,6 +10,9 @@ namespace SeeTest.Automation.EriBankTests
     {
         public AutomationAgent loginAutomationAgent;
         [TestMethod]
+        [TestCategory("Login")]
+        [Priority(1)]
+        [Owner("Kiran Kumar Anantapalli(kiran.anantapalli)")]
         public void VerifySuccessfulLogin()
         {
             using (loginAutomationAgent = new AutomationAgent("Verifying successful Login"))
@@ -17,6 +20,7 @@ namespace SeeTest.Automation.EriBankTests
                 try
                 {
                     LoginActions.Login(loginAutomationAgent, "company", "company");
+                    DashboardActions.ClickLogout(loginAutomationAgent);
                 }
                 catch (Exception ex)
                 {

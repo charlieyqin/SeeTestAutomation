@@ -9,6 +9,7 @@ namespace SeeTest.Automation.EriBankTests.iOSControlPages
 {
     public static class DashboardPage
     {
+        public static List<Control> DefaultControls = new List<Control>() { EriBankLogo, BalanceLabel, MakePaymentBtnLabel, MortgageRequestBtnLabel, ExpenseReportBtnLabel, LogoutBtnLabel };
         private static Control eriBankLogo;
         public static Control EriBankLogo
         {
@@ -16,7 +17,7 @@ namespace SeeTest.Automation.EriBankTests.iOSControlPages
             {
                 if (eriBankLogo == null)
                 {
-                    eriBankLogo = new Control("Default", "EriBankLogo", "EriBankLogo", "eribank", "Image");
+                    eriBankLogo = new Control("default", "EriBankLogo", "EriBankLogo", "eribank", "Image");
                 }
                 return eriBankLogo;
             }

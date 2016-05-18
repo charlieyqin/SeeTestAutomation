@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<OrderedTest name="212_OngoingAssessment" storage="c:\users\255464\documents\seetestautomation\pearson.pscautomation.212app\orderedtests\212_ongoingassessment.orderedtest" id="6e33901a-0198-4226-81dc-05d8f8e16b3c" continueAfterFailure="true" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
-  <TestLinks>
-    <TestLink id="87b88f0e-f968-472f-8809-f7e2b00a0a05" name="212_ongoingassessment_nonscoring" storage="212_ongoingassessment_nonscoring.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
-    <TestLink id="58832c2c-43e7-4529-b5eb-0281e7a7b137" name="212_ongoingassessment_nonscoringstudent" storage="212_ongoingassessment_nonscoringstudent.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
-    <TestLink id="560080dc-8809-43e2-be8e-ae3b801a3313" name="212_ongoingassessment_scoring" storage="212_ongoingassessment_scoring.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
-    <TestLink id="0bc3ebd8-9511-4712-a1fa-d47198ae625b" name="212_ongoingassessment_released" storage="212_ongoingassessment_released.orderedtest" type="Microsoft.VisualStudio.TestTools.TestTypes.Ordered.AutoSuite, Microsoft.VisualStudio.QualityTools.Tips.OrderedTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
-  </TestLinks>
-</OrderedTest>

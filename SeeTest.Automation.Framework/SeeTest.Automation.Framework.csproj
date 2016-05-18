@@ -71,7 +71,6 @@
     <Compile Include="SingletonClientDevice.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Login.cs" />
-    <Compile Include="TaskInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

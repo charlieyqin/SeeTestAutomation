@@ -1,9 +1,10 @@
-#Wed May 11 17:12:55 EDT 2016
+#Wed May 18 16:05:29 EDT 2016
 mobile=true
 platform=GENERIC
 default.ios.user=root
 lastZone=default
 default.ios.password=alpine
+translator=C\# MSTest
 version=2
 app.name=ios_app\:Lab1
 last.test=SampleScenario

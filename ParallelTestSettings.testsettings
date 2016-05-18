@@ -1,7 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <TestSettings name="ParallelTestSettings" id="1b966ebb-8952-47b9-bce6-1fe31009884d" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
   <Description>These are default test settings for a local test run.</Description>
-  <Deployment enabled="false" />
+  <Deployment>
+    <DeploymentItem filename="SeeTest.Automation.MyApp\EriBankSeeTestProj\" />
+    <DeploymentItem filename="SeeTest.Automation.MyApp\Xml\" />
+  </Deployment>
   <Execution parallelTestCount="2">
     <ExecutionThread apartmentState="MTA" />
     <Timeouts testTimeout="0" />
