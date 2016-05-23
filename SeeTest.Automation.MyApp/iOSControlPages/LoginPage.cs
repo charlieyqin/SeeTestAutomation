@@ -16,7 +16,7 @@ namespace SeeTest.Automation.EriBankTests.iOSControlPages
             {
                 if (userNameTextbox == null)
                 {
-                    userNameTextbox = new Control("Native", "xpath=//*[@accessibilityIdentifier='usernameTextField']", "UserName", "UserName", "Textbox");
+                    userNameTextbox = new Control(Zone.Native, "xpath=//*[@accessibilityIdentifier='usernameTextField']", "UserName", "UserName", "Textbox");
                 }
                 return userNameTextbox;
             }
@@ -29,7 +29,7 @@ namespace SeeTest.Automation.EriBankTests.iOSControlPages
             {
                 if (passwordTextbox == null)
                 {
-                    passwordTextbox = new Control("Native", "xpath=//*[@accessibilityIdentifier='passwordTextField']", "Password", "Password", "Textbox");
+                    passwordTextbox = new Control(Zone.Native, "xpath=//*[@accessibilityIdentifier='passwordTextField']", "Password", "Password", "Textbox");
                 }
                 return passwordTextbox;
             }
@@ -42,7 +42,7 @@ namespace SeeTest.Automation.EriBankTests.iOSControlPages
             {
                 if (loginButton == null)
                 {
-                    loginButton = new Control("Native", "xpath=//*[@accessibilityLabel='loginButton']", "Login", "Login", "Button");
+                    loginButton = new Control(Zone.Native, "xpath=//*[@accessibilityLabel='loginButton']", "Login", "Login", "Button");
                 }
                 return loginButton;
             }
@@ -55,7 +55,7 @@ namespace SeeTest.Automation.EriBankTests.iOSControlPages
             {
                 if (loginLabel == null)
                 {
-                    loginLabel = new Control("Native", "xpath=//*[@accessibilityLabel='Login']", "Login", "Login", "Label");
+                    loginLabel = new Control(Zone.Native, "xpath=//*[@accessibilityLabel='Login']", "Login", "Login", "Label");
                 }
                 return loginLabel;
             }

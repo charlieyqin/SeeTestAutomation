@@ -17,7 +17,7 @@ namespace SeeTest.Automation.EriBankTests.iOSControlPages
             {
                 if (eriBankLogo == null)
                 {
-                    eriBankLogo = new Control("default", "EriBankLogo", "EriBankLogo", "eribank", "Image");
+                    eriBankLogo = new Control(Zone.defalut, "EriBankLogo", "EriBankLogo", "eribank", "Image");
                 }
                 return eriBankLogo;
             }
@@ -30,7 +30,7 @@ namespace SeeTest.Automation.EriBankTests.iOSControlPages
             {
                 if (balanceLabel == null)
                 {
-                    balanceLabel = new Control("Web", "xpath=//*[@nodeName='H1']", "BalanceLabel", "Your balance is: {0}$", "Label");
+                    balanceLabel = new Control(Zone.Web, "xpath=//*[@nodeName='H1']", "BalanceLabel", "Your balance is: {0}$", "Label");
                 }
                 return balanceLabel;
             }
@@ -43,7 +43,7 @@ namespace SeeTest.Automation.EriBankTests.iOSControlPages
             {
                 if (makePaymentBtnLabel == null)
                 {
-                    makePaymentBtnLabel = new Control("Native", "xpath=//*[@text='Make Payment']", "MakePaymentBtnLabel", "Make Payment", "ButtonLabel");
+                    makePaymentBtnLabel = new Control(Zone.Native, "xpath=//*[@text='Make Payment']", "MakePaymentBtnLabel", "Make Payment", "ButtonLabel");
                 }
                 return makePaymentBtnLabel;
             }
@@ -56,7 +56,7 @@ namespace SeeTest.Automation.EriBankTests.iOSControlPages
             {
                 if (mortgageRequestBtnLabel == null)
                 {
-                    mortgageRequestBtnLabel = new Control("Native", "xpath=//*[@text='Mortgage Request']", "MortgageRequestBtnLabel", "Mortgage Request", "ButtonLabel");
+                    mortgageRequestBtnLabel = new Control(Zone.Native, "xpath=//*[@text='Mortgage Request']", "MortgageRequestBtnLabel", "Mortgage Request", "ButtonLabel");
                 }
                 return mortgageRequestBtnLabel;
             }
@@ -69,7 +69,7 @@ namespace SeeTest.Automation.EriBankTests.iOSControlPages
             {
                 if (expenseReportBtnLabel == null)
                 {
-                    expenseReportBtnLabel = new Control("Native", "xpath=//*[@text='Expense Report']", "ExpenseReportBtnLabel", "Expense Report", "ButtonLabel");
+                    expenseReportBtnLabel = new Control(Zone.Native, "xpath=//*[@text='Expense Report']", "ExpenseReportBtnLabel", "Expense Report", "ButtonLabel");
                 }
                 return expenseReportBtnLabel;
             }
@@ -82,7 +82,7 @@ namespace SeeTest.Automation.EriBankTests.iOSControlPages
             {
                 if (logoutBtnLabel == null)
                 {
-                    logoutBtnLabel = new Control("Native", "xpath=//*[@text='Logout']", "LogoutBtnLabel", "Logout", "ButtonLabel");
+                    logoutBtnLabel = new Control(Zone.Native, "xpath=//*[@text='Logout']", "LogoutBtnLabel", "Logout", "ButtonLabel");
                 }
                 return logoutBtnLabel;
             }

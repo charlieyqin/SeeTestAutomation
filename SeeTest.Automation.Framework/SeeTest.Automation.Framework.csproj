@@ -63,7 +63,6 @@
   </Choose>
   <ItemGroup>
     <Compile Include="AutomationAgent.cs" />
-    <Compile Include="ReadContentMethods.cs" />
     <Compile Include="ClientDevice.cs" />
     <Compile Include="ClientDeviceFactory.cs" />
     <Compile Include="Control.cs" />
@@ -86,7 +85,16 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="SeeTestDlls\CookComputing.XmlRpcV2.dll" />
+    <Content Include="SeeTestDlls\HtmlAgilityPack.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="SeeTestDlls\imageClient.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SeeTestDlls\WebDriver.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SeeTestDlls\WebDriver.Support.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

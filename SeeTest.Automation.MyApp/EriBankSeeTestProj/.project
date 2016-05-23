@@ -1,12 +1,12 @@
-#Wed May 18 16:05:29 EDT 2016
-mobile=true
+#Mon May 23 14:29:28 EDT 2016
+mobile=false
 platform=GENERIC
 default.ios.user=root
 lastZone=default
 default.ios.password=alpine
 translator=C\# MSTest
 version=2
-app.name=ios_app\:Lab1
+app.name=ios_app\:Lab1_Ipad
 last.test=SampleScenario
-description=Experi Bank App SeeTest Project
 text_substitutions=
+description=Experi Bank App SeeTest Project
